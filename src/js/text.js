@@ -1,0 +1,1 @@
+module.exports = "Lorem Ipsum is 333 !!!";
